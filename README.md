@@ -14,7 +14,7 @@ ContactAgenda/
 
 ├─ contact_agenda_actions.sql # Example queries: insert, select, update, delete, truncate
 
-└─ contact_agenda_diagram.pdf # (Optional) Visual representation of the database schema
+└─ contact_agenda_diagram.mwb # (Optional) Visual representation of the database schema
 
 ## Setup Instructions
 
